@@ -12,9 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "uuid": "^3.2.1"
+    "uuid": "^3.2.1",
+    "yo-yo": "^1.4.1"
   },
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
     "budo": "^10.0.4"
   }
 }
